@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "542d4bad45291030584d9c8c",
+  "owner": "vwd3ggpu",
+  "repo": "page-da34bae5671bf258cf0f25e6",
+  "title": "ShadowRhythm",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "da34bae5671bf258cf0f25e6",
+      "a": "ShadowRhythm",
+      "b": "2027官方最新地址导航",
+      "entity": "ShadowRhythm",
+      "brand": "ShadowRhythm",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cb8d4f4dcce4689cd3b67a5d162094d6055bde15d2c84af71373b70d2dd3feba",
+      "content": {
+        "primary_entity": "ShadowRhythm",
+        "keyword1": "ShadowRhythm",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，再导入订阅信息即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，随后按客户端指引完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐开始使用",
+          "AI_DESCRIPTION": "，围绕海外网络加速场景提供基础版、旗舰版与团队版三档订阅选择。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB 流量，支持 5 台设备并附带 IPLC 专线游戏加速优化；团队版每月 1000GB 流量，支持 20 台设备与 VIP 专属高带宽节点。各档均提供按年付方案，便于按设备规模与流量需求灵活对比。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度，快速判断适合自己的方案。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版、旗舰版与团队版按月流量从 100GB 到 1000GB 递增，可按使用强度选择。",
+          "AI_FEATURE_TEXT_2": "同时在线设备数从 3 台到 20 台不等，手机、平板与电脑可按需分配。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付价格更优，旗舰版年付 ¥350/年，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "按三步完成从选套餐到配置订阅的流程。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "ShadowRhythm 提供基础版、旗舰版与团队版三档海外加速订阅，月付价格从 ¥15 到 ¥85，年付方案可节省更多。选择套餐后按设备导入订阅信息，即可在手机、平板或电脑上使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐月付 ¥15 起",
+          "AI_HIGHLIGHT_2": "年付方案更划算",
+          "AI_HIGHLIGHT_3": "支持 3 至 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与设备数并优化游戏加速，团队版面向多设备高流量场景。月付与年付可按需切换，年付价格分别为 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数量与预算，在基础版、旗舰版和团队版之间做出选择。",
+          "AI_STEP_TEXT_2": "确认设备系统是否在客户端支持范围内，并核对套餐的设备数量限制是否满足日常使用。",
+          "AI_STEP_TEXT_3": "按照对应客户端的文档添加订阅信息，完成后即可在所选设备上使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "ShadowRhythm 加速订阅",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "ShadowRhythm 支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备，旗舰版5台，团队版20台同时在线。",
+          "AI_FAQ_QUESTION_2": "如何导入订阅链接？",
+          "AI_FAQ_ANSWER_2": "在所选客户端的订阅设置中粘贴链接，按客户端文档提示保存并更新节点。",
+          "AI_FAQ_QUESTION_3": "套餐可以更换吗？",
+          "AI_FAQ_ANSWER_3": "可以根据使用情况升级或降级，具体规则以订阅管理界面为准。",
+          "AI_FAQ_QUESTION_4": "年付是否更划算？",
+          "AI_FAQ_ANSWER_4": "基础版年付150元、旗舰版350元、团队版850元，相比月付节省两个月费用。",
+          "AI_FAQ_QUESTION_5": "流量用完后怎么办？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后可以升级套餐或等待下个计费周期重置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "8l5svj.cn",
+    "host": "8l5svj.cn"
+  },
+  "file_hashes": {
+    "index.html": "776641a8f3081d66dba5763002aa6005b83a57b48c6fc4af0f2a6ff53d350f4b",
+    "sitemap.xml": "d73ffe03033555ac309fd8c48ba49bdb85d853e9327a14479a61976bc9d9a05c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a878a43f00f87fb58cc61d4e2b72ffa0a625d908322ed376316d52a08125e5ac",
+    "robots.txt": "df7c229d19d87316a943cc236a7ab9ffe877f1087bcc60de10e169b97afee51b",
+    "1dc4623a298d0eb1331c1b6de4825f5f.txt": "68bef6308ffd6adc012131455d30007c286a501c4714ee19124645e8b4c54e9b"
+  },
+  "revision": "fd1b641bc784081525b23ea11c4a071357a768dba85347c53dd8de77b3a99561"
+}
